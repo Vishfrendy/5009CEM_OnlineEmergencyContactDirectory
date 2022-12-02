@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="DarkBlue">#034275</color>
+    <color name="LightBlue">#6ABDFF</color>
+    <color name="BackBlue">#720086CA</color>
+    <color name="Yellow">#FFC107</color>
+    <color name="LightYellow">#C6D818</color>
+    <color name="PinkCard">#BFFA3779</color>
+    <color name="greenCard">#BF45E44C</color>
+    <color name="OrangeCard">#BFFF794E</color>
+    <color name="flora">#007167</color>
+    <color name="berry">#E15569DA</color>
+    <color name="grey_V2">#662C2E2E</color>
+    <color name="backBlack">#3E4040</color>
+    <color name="pink">#A57A86</color>
+    <color name="grey">#505050</color>
+    <color name="blue2">#9CADCE</color>
+    <color name="blue3">#7EC4CF</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="red">#FF0000</color>
+</resources>
